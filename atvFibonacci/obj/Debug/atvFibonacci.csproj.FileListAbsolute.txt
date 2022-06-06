@@ -1,0 +1,10 @@
+c:\users\sennit\source\repos\atvFibonacci\atvFibonacci\bin\Debug\atvFibonacci.exe.config
+c:\users\sennit\source\repos\atvFibonacci\atvFibonacci\bin\Debug\atvFibonacci.exe
+c:\users\sennit\source\repos\atvFibonacci\atvFibonacci\bin\Debug\atvFibonacci.pdb
+c:\users\sennit\source\repos\atvFibonacci\atvFibonacci\obj\Debug\atvFibonacci.csprojAssemblyReference.cache
+c:\users\sennit\source\repos\atvFibonacci\atvFibonacci\obj\Debug\atvFibonacci.Form1.resources
+c:\users\sennit\source\repos\atvFibonacci\atvFibonacci\obj\Debug\atvFibonacci.Properties.Resources.resources
+c:\users\sennit\source\repos\atvFibonacci\atvFibonacci\obj\Debug\atvFibonacci.csproj.GenerateResource.cache
+c:\users\sennit\source\repos\atvFibonacci\atvFibonacci\obj\Debug\atvFibonacci.csproj.CoreCompileInputs.cache
+c:\users\sennit\source\repos\atvFibonacci\atvFibonacci\obj\Debug\atvFibonacci.exe
+c:\users\sennit\source\repos\atvFibonacci\atvFibonacci\obj\Debug\atvFibonacci.pdb
